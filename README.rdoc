@@ -1,6 +1,6 @@
 == README
 
-Login app with gem 'device'
+Login app with gem 'devise'
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
